@@ -1,0 +1,8 @@
+NAME ProeTest
+EXEC_FILE E:\0_博士学业Git\DoctorStudy\2_DevTest\HelloWorld\Debug\HelloWorld.dll
+TEXT_DIR  E:\0_博士学业Git\DoctorStudy\2_DevTest\HelloWorld\Debug
+STARTUP  dll
+ALLOW_STOP TRUE
+DELAY_START TRUE
+REVISION 28
+END

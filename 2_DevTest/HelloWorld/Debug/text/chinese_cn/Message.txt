@@ -1,0 +1,8 @@
+ShowMessageText
+ShowMessageText
+显示信息测试
+#
+Active ShowMessageTest menu
+Active ShowMessageTest menu
+激活显示信息测试菜单
+#

@@ -1,0 +1,23 @@
+1、需要库
+
+wsock32.lib
+mpr.lib
+protkmt.lib
+ptasyncmt.lib
+psapi.lib
+netapi32.lib
+
+2、忽略库
+
+msvcrt.lib
+
+3、包含文件（4个）
+D:\Program Files (x86)\proeWildfire 5.0\prodevelop\includes
+D:\Program Files (x86)\proeWildfire 5.0\includes
+D:\Program Files (x86)\proeWildfire 5.0\protoolkit\includes
+D:\Program Files (x86)\proeWildfire 5.0\protoolkit\protk_appls\includes
+
+4、库文件
+
+D:\Program Files (x86)\proeWildfire 5.0\protoolkit\i486_nt\obj
+D:\Program Files (x86)\proeWildfire 5.0\prodevelop\i486_nt\obj
